@@ -9,3 +9,9 @@
     * IRIS EDA [html_소스코드](https://ldjwj.github.io/MyDataAnalysis_2022/IRIS_BASIC01.html) 
     * IRIS 기본 모델 만들기 [html_소스코드]
     * IRIS 모델 평가 [html_소스코드]
+
+## [Titanic 데이터 분석]
+  * 데이터 참조 : https://www.kaggle.com/competitions/titanic/data
+  * 이미지 넣어보기
+  * 내용 : matplotlib를 활용한 데이터 시각화
+  * 데이터 시각화로 [이동]()
